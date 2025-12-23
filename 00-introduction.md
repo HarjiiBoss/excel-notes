@@ -18,7 +18,7 @@ It allows you to:
 
 Excel is part of the Microsoft 365 suite and is available as:
 - Desktop application (Windows/Mac)
-- Web application (excel.cloud.microsoft.com)
+- Web application (excel.cloud.microsoft)
 - Mobile apps (iOS/Android)
 
 ---
