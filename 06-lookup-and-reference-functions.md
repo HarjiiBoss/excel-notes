@@ -19,7 +19,7 @@ Think of it like **looking up a word in a dictionary**:
 ```
 Employee ID → Lookup → Employee Database → Return Name
 
-    1001    →  Search  →  ┌──────┬─────────┐
+    1001    →  Search  →   ┌──────┬─────────┐
                            │ ID   │ Name    │
                            ├──────┼─────────┤
                            │ 1001 │ Alice   │
