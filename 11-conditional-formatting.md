@@ -1224,7 +1224,7 @@ While not direct conditional formatting:
 
 Use conditional formatting to:
 
-- ✅ Highlight top performers
+- [ ] Highlight top performers
 - [ ] Flag overdue items
 - [ ] Show budget variances
 - [ ] Visualize progress toward goals
