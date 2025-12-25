@@ -1246,7 +1246,7 @@ Use conditional formatting to:
 
 After this file, we move to:
 
-**`12-data-validation.md`**
+**`12-sorting-and-filtering.md`**
 - Creating dropdown lists
 - Setting input restrictions (numbers, dates, text length)
 - Custom validation rules
