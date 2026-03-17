@@ -1,21 +1,49 @@
-# Excel Learning Notes
+# Complete Excel Roadmap for Data Analysis (Beginner → Advanced)
 
-A comprehensive, structured guide to mastering Microsoft Excel from basics to advanced data analysis and automation.
+⭐ If you find this helpful, consider giving it a star
+
+A structured, step-by-step guide to mastering Microsoft Excel from scratch to advanced level.
+
+👉 Start here: [00 - Introduction](00-introduction.md)
+
+If you're learning Data Analysis and:
+- You don’t know where to start with Excel
+- You feel stuck at beginner/intermediate level
+- Or you want a clear path to becoming confident in Excel
+
+This roadmap will guide you from **zero to advanced** without confusion.
 
 ---
 
-## 📚 About This Repository
+## 🚀 What You’ll Be Able to Do After This
 
-This repository contains detailed Excel lesson notes covering everything from basic formulas to advanced Power Query and VBA. Each file is self-contained with:
+By the end of this guide, you will:
 
-- Clear explanations and visual diagrams
-- Step-by-step examples with screenshots (ASCII)
-- "What to Practice vs Memorize" sections
-- Best practices and common pitfalls
-- Real-world use cases and scenarios
+✔ Write powerful formulas and functions  
+✔ Clean and analyze real-world datasets  
+✔ Build Pivot Tables for insights  
+✔ Create dashboards and visual reports  
+✔ Automate tasks with Power Query & VBA  
+✔ Handle Excel tasks used in real jobs  
+
+---
+
+## 📚 About This Guide
+
+This is not just notes.
+
+It’s a **complete Excel learning system** organized into 26 structured lessons, designed to take you from beginner to advanced with hands-on practice.
+
+Each lesson includes:
+- Clear explanations
+- Step-by-step examples
+- Practice guidance
+- Real-world use cases
+- Common mistakes to avoid
 
 **Total Files:** 26 markdown files  
-**Estimated Learning Time:** 60-80 hours (with hands-on practice)  
+**Estimated Learning Time:** 60–80 hours  
+**Level:** Beginner → Advanced  
 **Excel Version Focus:** Excel Online (excel.cloud.microsoft.com) with Desktop notes where relevant
 
 ---
